@@ -8,6 +8,7 @@ sleep 2
 echo ""
 echo "closing now..."
 sleep 2
+rm ./XU.sh
 exit
 
 
